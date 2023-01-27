@@ -1,4 +1,6 @@
 
+### Hi there I'm The Hung Nguyen 👋
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com//hungnguyen8a1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//thehungnguyenct/)
 
@@ -11,9 +13,6 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=hungctu&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hungctu&icon=0&color=0)](https://visitcount.itsvg.in)

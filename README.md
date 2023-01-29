@@ -1,6 +1,6 @@
 
 ### Hi there I'm The Hung Nguyen 👋
-#### About me: Start as software developer. I'm learning the new skills to become as Full-Stack Developer. Skilled in Java, PHP , Spring, and MySQL. I am learning and improving my skills in analyzing and programming websites and android applications using Java and Spring framework.
+#### As a fresh graduate majoring in the Information System at Can Tho University, I have been skilled by Java, PHP, C# and Spring framework. Currently, I'm researching about new technologies, frameworks and libraries as well as discovering the world of AI. In three years, I want to be a back-end expert in software projects contributing to top leading products.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com//hungnguyen8a1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//thehungnguyenct/)

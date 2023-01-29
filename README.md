@@ -1,6 +1,6 @@
 
 ### Hi there I'm The Hung Nguyen 👋
-## About me: I am a new graduate student majoring in information systems at Can Tho University. I have learned about java, php, c# programming language and spring framework. I want to be a fresher java.
+#### About me: I am a new graduate student majoring in information systems at Can Tho University. I have learned about java, php, c# programming language and spring framework. I want to be a fresher java.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com//hungnguyen8a1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//thehungnguyenct/)

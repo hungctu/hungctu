@@ -1,6 +1,7 @@
 
 ### Hi there I'm The Hung Nguyen 👋
 #### I am a back-end engineer with over 1 year of experience. During this time, I have been exposed to new knowledge about programming skills, new technologies, and working in the blockchain industry. I am always eager to learn new things and take on new challenges.
+### This is where I store my personal projects that I have researched and done during my study and work.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com//hungnguyen8a1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//thehungnguyenct/)

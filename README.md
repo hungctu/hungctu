@@ -1,6 +1,6 @@
 
 ### Hi there I'm The Hung Nguyen 👋
-#### As a fresh graduate majoring in the Information System at Can Tho University, I have been skilled by Java, PHP, C# and Spring framework. Currently, I'm researching about new technologies, frameworks and libraries as well as discovering the world of C++. In three years, I want to be a back-end expert in software projects contributing to top leading products.
+#### I am a Backend Fresher with 1 year of experience as an intern at Chainity Labs. During my internship, I gained experience in software projects and developed technical skills in software development. I am also someone who is constantly exploring new technologies, frameworks, and libraries.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com//hungnguyen8a1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//thehungnguyenct/)
